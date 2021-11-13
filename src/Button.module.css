@@ -1,0 +1,18 @@
+.actions{
+    margin: 5px;
+    padding: 20px 20px;
+}
+
+.actions button{
+    padding: 20px 60px;
+    background: transparent;
+    color: #000;
+    border: 2px solid #f00;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 5px;
+}
+
+.actions button:hover{
+    cursor: pointer;
+}
